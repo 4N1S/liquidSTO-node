@@ -1,0 +1,36 @@
+{
+  "name": "liquidSTO-node",
+  "version": "0.0.1",
+  "description": "a wrapper for the creation and management of security token on liquid network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4N1S/liquidSTO-node.git"
+  },
+  "keywords": [
+    "Lightning network",
+    "wrapper",
+    "nodejs",
+    "api",
+    "bitcoin",
+    "ln",
+    "ACINQ",
+    "strike"
+  ],
+  "author": "Anis Haboubi",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "bugs": {
+    "url": "https://github.com/4N1S/liquidSTO-node/issues"
+  },
+  "homepage": "https://github.com/4N1S/liquidSTO-node#readme",
+  "directories": {
+    "example": "examples"
+  },
+  "devDependencies": {}
+}
