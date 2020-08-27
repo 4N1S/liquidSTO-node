@@ -1,5 +1,5 @@
 {
-  "name": "liquidSTO-node",
+  "name": "liquidsto-node",
   "version": "0.0.1",
   "description": "a wrapper for the creation and management of security token on liquid network",
   "main": "index.js",
